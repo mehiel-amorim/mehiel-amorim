@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![GitHub Banner](https://git-banner-backend.onrender.com/banner/mehiel-amorim?type=stats&format=twitter&theme=dark)](https://github.com/mehiel-amorim)
 <!--
 **mehiel-amorim/mehiel-amorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
